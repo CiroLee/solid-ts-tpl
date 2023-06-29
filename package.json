@@ -10,7 +10,7 @@
   },
   "license": "MIT",
   "lint-staged": {
-    "src/**/*.{jsx,txs,ts,js,json}": [
+    "src/**/*.{jsx,tsx,ts,js,json}": [
       "eslint --config .eslintrc.js"
     ],
     "*.{css,sass,scss}": [
